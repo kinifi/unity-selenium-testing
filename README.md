@@ -46,5 +46,6 @@ Q: What is the base url?
 A: http://localhost (just press enter)
 
 HOW TO RUN TESTS:
+
 1. Open a new command prompt and cd into your directory again. type the following: selenium-standalone start
 2. Open a new command prompt and cd into your directory again. Type the following: ./node_modules/.bin/wdio wdio.conf.js
