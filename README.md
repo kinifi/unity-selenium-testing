@@ -1,10 +1,12 @@
 # unity-selenium-testing
 
 Git Repo Setup
+
 1. Clone the repo
 2. cd into the directory after cloning git
 
 How To Setup: 
+
 1. Install Nodejs
 2. Install Selenium-Standalone Server
 3. npm install selenium-standalone@latest -g
